@@ -1,0 +1,5 @@
+Start Withdraw:
+http://127.0.0.1:5411/withdraw.php?RGTGrowID=RGTGrowIDHERE&DLAmount=0&WLAmount=0&BotGrowID=BotName&BotPassword=BotPass&BotWorld=WorldWereTheBotWillGo&GameVersion=4.48&SaveWorld=SaveWorld&SaveDoorID=SaveDoorID&WebUser=WebUser&apikey=modiz-withdraw
+
+End Withdraw:
+http://127.0.0.1:5411/disconnect.php?apikey=modiz-withdraw&WebUser=Webuser
