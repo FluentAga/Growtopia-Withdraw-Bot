@@ -1,4 +1,4 @@
-# [Withdraw Bot] Updated To Latest Version! 4.48!
+# [Withdraw Bot] Join Discord For Latest Version!
 
 # How To Use:
 1. Open Config.json and set game_version.
@@ -10,11 +10,12 @@
 # Can't Connect To Growtopia?
 1. Check if the game_version matches with the rgt version in the api and config.json
 2. Check if WithdrawBot.exe has access to firewall 5411 port.
-# Still Can't Connect? Discord: https://discord.gg/AX4jZp4Std
+# Still Can't Connect? Discord: 
+https://discord.gg/rJ6GCDfcaf
 
 # Little Explanation How The Deposit Bot Functions:
 - When you'll use http://127.0.0.1:5411/withdraw.php api in any browser it will bring the bot into the save world and get the wls/dls from the api (DLAmount=0&WLAmount=0) and then it will take the amount that was written in the api and then when you'll use http://127.0.0.1:5411/disconnect.php it will go to the world (BotWorld=) and drop the wls/dls if the players name matches with the one in (RGTGrowID=). (1st safe vault is for bgls/dls/, 2nd safe vault is for wls)
 
-# Got any suggestion how to improve? Dc: https://discord.gg/AX4jZp4Std
+# Got any suggestion how to improve? Dc: https://discord.gg/rJ6GCDfcaf
 
 
