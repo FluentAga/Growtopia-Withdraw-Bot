@@ -1,4 +1,4 @@
-# [Withdraw Bot] Join Discord For Latest Version!
+# [Withdraw Bot] Dm Me On Discord For New Version! (Outdated)
 
 # How To Use:
 1. Open Config.json and set game_version.
