@@ -1,4 +1,4 @@
-# [Withdraw Bot] Source For Sale
+Source For Sale
 
 # How To Use:
 1. Open Config.json and set game_version.
